@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentLab</string>
+    <string name="action_settings">Settings</string>
+    <!--strings for FirstActivity-->
+    <string name="title_activity_first">First Activity</string>
+    <string name="tv_first_activity">This is the first activity</string>
+    <string name="btn_intent_to_second_activity">Press to Open 2ndAct</string>
+    <!--strings for SecondActivity-->
+    <string name="title_activity_second">Second Activity</string>
+    <string name="tv_second_activity">This is the second activity</string>
+    <string name="rd_btn_1">First Choice</string>
+    <string name="rd_btn_2">Second Choice</string>
+    <string name="rd_btn_3">Third Choice</string>
+
+
+</resources>
